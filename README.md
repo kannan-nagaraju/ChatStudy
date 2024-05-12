@@ -114,6 +114,7 @@ while True:
 ## Server:
 ![image](https://github.com/kannan-nagaraju/ChatStudy/assets/145742755/4da491c6-4e61-462c-83ac-9af8217fd7b8)
 
+
 ## Result:
 Thus the study on Client Server Chat Applications has been performed.
 

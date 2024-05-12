@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## NAME:N.KANNAN
+## REG NO:212223230097
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -107,14 +109,11 @@ while True:
 ```
 ## Output:
 ## Client:
-![image](https://github.com/kannan-nagaraju/ChatStudy/assets/145742755/077f61d9-001d-49f9-85c2-2dc0eb528a34)
+![image](https://github.com/kannan-nagaraju/ChatStudy/assets/145742755/a9d35002-365d-4fc1-b94f-acb91f47a737)
 
-
-![image](https://github.com/kannan-nagaraju/ChatStudy/assets/145742755/688c28ad-3bf2-4447-b4d8-a9c638078126)
-
-
+## Server:
+![image](https://github.com/kannan-nagaraju/ChatStudy/assets/145742755/4da491c6-4e61-462c-83ac-9af8217fd7b8)
 
 ## Result:
-
 Thus the study on Client Server Chat Applications has been performed.
 
